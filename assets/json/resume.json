@@ -4,11 +4,10 @@
     "label": "Electrical Engineer",
     "image": "",
     "email": "tuongnq@proton.me",
-    "phone": "(912) 123-4567",
     "url": "https://tuongnq.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "I am a highly experienced high-voltage test engineer who has been involved in testing, commissioning, and maintaining electricity substations up to 500 kV for over six years. My main areas of expertise include diagnostic measurement, project management, and power distribution. My goal is to maximize productivity and the quality of electrical testing.",
     "location": {
-      "address": "2712 Broadway St",
+      "address": "Beevers St",
       "postalCode": "3011",
       "city": "Melbourne",
       "countryCode": "AU",
@@ -33,6 +32,7 @@
       "highlights": ["Relativity"]
     }
   ],
+
   "volunteer": [
     {
       "organization": "People's Climate March",
@@ -44,6 +44,7 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
+
   "education": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",
@@ -57,6 +58,7 @@
       "courses": ["Theory of Relativity"]
     }
   ],
+
   "awards": [
     {
       "title": "Nobel Prize in Physics",
@@ -66,6 +68,7 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
+  
   "certificates": [
     {
       "name": "Machine Learning",
