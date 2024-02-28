@@ -1,26 +1,19 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: my uni thesis
+description: design of control circuit adjusting the HID lamp brightness
+img: assets/img/project1_avt.jpg
 importance: 1
-category: work
+category: study
 related_publications: true
+toc:
+  sidebar: left
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
+## introduction
+Thanks to superior features such as high durability, wide power range, and high luminous efficiency, lighting sets using high-pressure sodium (HPS) sources have gradually replaced traditional light sets. According to calculations, in addition to the environmental and comfort benefits, people can save money for the life cycle of a light set per kilometre of public lighting if they replace other light sets with high-pressure sodium lamp sets. Because of such benefits, high-pressure sodium lamps for public lighting have been implemented thoroughly.
+Besides, changing the light brightness by changing the input power supplied to the light set would contribute to energy saving. Thus, the project aims to design and construct a circuit adjusting the brightness of the HID lamp to save energy and enhance energy efficiency. 
+## the concept
+In this project, I applied a 250W HPS lamp set with ballast, Ignitor, and condensercapacitor. Thus, interfering with this HPS light set's structure was impossible. Therefore, to control the brightness of an existing HID luminaire, I created a power conversion circuit to change the input power supplied. And the model of the power converter was described in the figure below.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
