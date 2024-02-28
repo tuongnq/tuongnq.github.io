@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "QUANG-TUONG NGUYEN",
+    "label": "Electrical Engineer",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "tuongnq@proton.me",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "url": "https://tuongnq.github.io",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "postalCode": "3011",
+      "city": "Melbourne",
+      "countryCode": "AU",
+      "region": "Victoria"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "tuongnq_io",
+        "url": "https://twitter.com/tuongnq_io"
       }
     ]
   },

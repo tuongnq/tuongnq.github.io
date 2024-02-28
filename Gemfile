@@ -17,8 +17,9 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'mini_racer'
+    #gem 'wdm', '~> 0.1.0'
     gem 'unicode_utils'
-    gem 'webrick'
+    gem 'webrick', "~> 1.8"
 end
 group :other_plugins do
     gem 'feedjira'
