@@ -14,8 +14,7 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Beevers street</p>
-      <p>Melbourne, VIC 3011</p>
+
   - align: left
     image: avatar.jpg
     content: about_einstein.md
