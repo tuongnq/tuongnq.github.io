@@ -23,52 +23,66 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-
-  "volunteer": [
+      "name": "Electrical Testing Company member of HCMC Power Corporation (EVNHCMC), Ho Chi Minh City, Vietnam",
+      "position": "Deputy Manager",
+      "url": "https://www.evn.com.vn/",
+      "startDate": "2018-01-01",
+      "endDate": "2022-02-01",
+      "summary": "",
+      "highlights": ["Operating and managing 40+ staff members to supply 24-hour electrical testing services for Ho Chi Minh City’s electricity grid ensures it operates reliably.", "Provided guidance, training, and development for the field electrical and instrumentation personnel approaching the condition-based maintenance (CBM) strategy.", "Coordinated the preparation and implementation of execution plans in various work locations.", "Reviewed, corrected, and approved technical test reports to meet industry standards."]
+    },
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Electrical Testing Company member of HCMC Power Corporation (EVNHCMC), Ho Chi Minh City, Vietnam",
+      "position": "Senior Engineer",
+      "url": "https://www.evn.com.vn/",
+      "startDate": "2017-07-01",
+      "endDate": "2017-12-01",
+      "summary": "",
+      "highlights": ["Focused on detailed technicalities to find the cause of failure of primary power equipment.", "Apply the condition-based maintenance (CBM) strategy to primary power equipment for Ho Chi Minh City’s power grid.", "Expertise in diagnostic measurement includes partial discharge (PD), dielectric loss (TD), and sweep frequency response analysis (SFRA)." ]
+    },
+    {
+      "name": "Electrical Testing Company member of HCMC Power Corporation (EVNHCMC), Ho Chi Minh City, Vietnam",
+      "position": "High Voltage Testing Engineer",
+      "url": "https://www.evn.com.vn/",
+      "startDate": "2016-01-01",
+      "endDate": "2017-06-01",
+      "summary": "",
+      "highlights": ["Key experience in the field of testing and commissioning of power system products and the execution of projects related to electrical power systems.", "Key experience in the field of testing and commissioning of power system products and the execution of projects related to electrical power systems." ]
+    },
+    {
+      "name": "TMA Solutions, Ho Chi Minh City, Vietnam",
+      "position": "Embedded Software Engineer",
+      "url": "https://www.tmasolutions.com",
+      "startDate": "2015-04-01",
+      "endDate": "2015-11-01",
+      "summary": "Working with the R&D team to investigate some project.",
+      "highlights": ["Research and implementation of a project based on the UWB real-time location system (RTLS). Released a prototype version.", "Research in IoT related to high-tech agriculture: build a small-scale automation system to feed plants (aquaponics). Released a prototype version." ]
     }
   ],
 
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Victoria University, Victoria, Australia",
+      "location": "Melbourne, AU",
+      "url": "https://vu.edu.au",
+      "area": " Electrical Engineering",
+      "studyType": "M.Eng",
+      "startDate": "2022-02-01",
+      "endDate": "present",
+      "score": ""
+    },
+    {
+      "institution": "Ho Chi Minh City University of Technology (HCMUT), Ho Chi Minh City, Vietnam",
+      "location": "Ho Chi Minh City, VN",
+      "url": "https://hcmut.edu.vn/en",
+      "area": " Electrical Engineering",
+      "studyType": "B.Eng",
+      "startDate": "2015-04-01",
+      "endDate": "2009-09-01",
+      "score": "7.5"
     }
   ],
 
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  
   "certificates": [
     {
       "name": "Machine Learning",
@@ -120,20 +134,6 @@
       "releaseDate": "1905-06-30",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
       "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
   "skills": [
@@ -153,27 +153,36 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Vietnamese",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Intermediate",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Running",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "marathon races"
+      ]
+    },
+    {
+      "name": "Donations",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "blood donate"
+      ]
+    },
+    {
+      "name": "Technology",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "innovational technology"
       ]
     }
   ],
@@ -181,22 +190,38 @@
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
     },
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "name": "The IoT Solutions for Digital Farming",
+      "summary": "Build the technical solution and structure. Design and build an IoT sensor and control network based on LORA radio communication technology, cloud service, and more.",
+      "highlights": ["sustainable farming", "reliability of data collection"],
+      "startDate": "2020-01-01",
+      "endDate": "2023-01-01",
+      "url": "https://vietfarmsolutions.com"
+    },
+    {
+      "name": "Smart Parking",
+      "summary": "Working with other developers to build the technical solution and complete some motorcycle parking ensures progress, economy, and quality requirements. My task is to design, construct, operate, and debug the graphic LED display panel system that connects to the computer through Modbus communication.",
       "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
+      "startDate": "2017-01-01",
       "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "url": "https://www.smartworld.com.vn/"
+    },
+    {
+      "name": "Design and manufacturing of an energy-saving controller for street light",
+      "summary": "During university, I designed and manufactured an energy-saving controller for street lights (250W HID lamp) that requires less power loss than traditional HID lamps. In this project, I built a VF single-phase inverter to find the matching point of maximum bright light with minimum power drain.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "url": "https://www.smartworld.com.vn/"
     }
   ]
 }
